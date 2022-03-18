@@ -16,7 +16,11 @@ public class Practica11_GIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String nombre="Alvaro";
+        String apellido="Fabeiro";
         System.out.println("Esto es una prueba GIT");
+        System.out.println("Mi nombre es: "+nombre);
+        System.out.println("Mi apellido es: "+apellido);
     }
     
 }
