@@ -28,6 +28,7 @@ public class Practica11_GIT {
         System.out.println("Dime cual es tu nombre: ");
         String tunombre=sc.nextLine();
         System.out.println("Has dicho que tu nombre es: "+tunombre);
+        System.out.println("tu piensa que todos los dias sale el sol querido flopibird2");
     }
     
 }
